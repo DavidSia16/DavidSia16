@@ -38,7 +38,7 @@ Sou um desenvolvedor Backend focado no ecossistema **Java** e na criação de ap
 
 Seja para conversar sobre oportunidades de desenvolvimento júnior/estágio, parcerias em projetos ou trocar experiências sobre engenharia de software:
 
-*   **LinkedIn:** [](https://www.linkedin.com/in/david-alves-2629b4341) 
+*   **LinkedIn:** [linkedIn](https://www.linkedin.com/in/david-alves-2629b4341) 
 *   **E-mail:** da394857@gmail.com
 
 ---
