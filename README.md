@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, eu sou o David Alves 👋
+# Olá, eu sou o David Alves 
 
 Sou um desenvolvedor Backend focado no ecossistema **Java** e na criação de aplicações robustas, escaláveis e seguras utilizando **Spring Boot**. Estudo diariamente e busco constantemente aplicar as melhores práticas de mercado em arquitetura de software.
 
